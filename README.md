@@ -43,3 +43,41 @@ protein = 21.4
 
 # There can be as many items as you like...
 ```
+
+## Output
+The program will output something like this:
+```
+From the possible ingredients:
+- almonds
+- biltong
+- chocolate_peanuts
+- chocolate_raisins
+- dried_mango
+- jelly_babies
+- pistachio_nuts
+- puffed_rice
+- salted_cashews
+- unsalted_cashews
+
+Optimal Mix:
+- 90.40g almonds
+- 22.30g biltong
+- 59.96g chocolate_peanuts
+- 17.73g chocolate_raisins
+- 100.00g dried_mango
+- 18.03g jelly_babies
+- 100.00g puffed_rice
+- 20.30g salted_cashews
+- 100.00g unsalted_cashews
+
+Total Nutrition:
+- carbohydrate: 251.55 (96.75%)
+- calories: 2494.48 (99.78%)
+- fat: 126.63 (180.90%)
+- fiber: 30.46 (101.55%)
+- protein: 71.03 (142.06%)
+- salt: 1.52 (25.38%)
+- saturates: 23.32 (116.62%)
+- sugar: 122.43 (136.03%)
+Total Weight: 528.74g  
+```
