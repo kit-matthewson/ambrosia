@@ -3,13 +3,16 @@
 Ambrosia attempts to construct an 'optimal' trail mix. It does this by taking a TOML file containing information about available ingredients and target quantities of different attributes (ie calories, protein, salt) and applying quadratic programming.
 
 ## Config
+The program will look for this file in the route directory (parent of `src/`).
+
 The config file has three parts:
 - Basic settings
 - Target information
 - Item information
 
-Settings
 ```toml
+# config.toml
+
 min = 0 # The minimum amount in grams of each item the mix can contain.
 max = 100 # The maximum amount in grams of each item the mix can contain.
 cutoff = 1 # Items with an optimal amount less than this in grams will be ignored.
