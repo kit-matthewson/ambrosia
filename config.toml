@@ -1,0 +1,113 @@
+min = 0
+max = 100
+cutoff = 1
+
+[targets]
+calories = 2500
+fat = 70
+saturates = 20
+carbohydrate = 260
+sugar = 90
+protein = 50
+fiber = 30
+salt = 6
+
+[items.puffed_rice]
+calories = 384
+fat = 0.5
+saturates = 0.1
+carbohydrate = 87.0
+sugar = 0.1
+fiber = 1.3
+protein = 6.4
+salt = 0.01
+
+[items.jelly_babies]
+calories = 330
+fat = 0.1
+saturates = 0.1
+carbohydrate = 78.0
+sugar = 74.0
+fiber = 0.0
+protein = 3.5
+salt = 0.02
+
+[items.almonds]
+calories = 604
+fat = 51.1
+saturates = 4.0
+carbohydrate = 9.2
+sugar = 3.0
+fiber = 10.8
+protein = 21.4
+salt = 0.01
+
+[items.biltong]
+calories = 292
+fat = 9.3
+saturates = 3.3
+carbohydrate = 3.6
+sugar = 2.7
+fiber = 0.5
+protein = 49.3
+salt = 4.95
+
+[items.salted_cashews]
+calories = 647
+fat = 54.3
+saturates = 7.9
+carbohydrate = 18.2
+sugar = 4.9
+fiber = 2.7
+protein = 20.0
+salt = 0.93
+
+[items.unsalted_cashews]
+calories = 601
+fat = 48.2
+saturates = 9.5
+carbohydrate = 18.1
+sugar = 4.6
+fiber = 7.3
+protein = 20.0
+salt = 0.05
+
+[items.dried_mango]
+calories = 317
+fat = 0.6
+saturates = 0.3
+carbohydrate = 71.0
+sugar = 57.0
+fiber = 8.0
+protein = 3.0
+salt = 0.07
+
+[items.chocolate_raisins]
+calories = 430
+fat = 13.7
+saturates = 8.2
+carbohydrate = 71.0
+sugar = 63.7
+fiber = 2.5
+protein = 4.4
+salt = 0.12
+
+[items.pistachio_nuts]
+calories = 604
+fat = 49.5
+saturates = 6.2
+carbohydrate = 11.6
+sugar = 7.4
+fiber = 6.6
+protein = 24.7
+salt = 0.06
+
+[items.chocolate_peanuts]
+calories = 524
+fat = 26.0
+saturates = 10.0
+carbohydrate = 60.0
+sugar = 53.0
+fiber = 5.0
+protein = 9.7
+salt = 0.11
